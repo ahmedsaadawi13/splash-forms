@@ -31,7 +31,7 @@ A complete, production-ready multi-tenant form builder SaaS platform built with 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/SplashForms.git
+git clone https://github.com/ahmedsaadawi13/SplashForms.git
 cd SplashForms
 ```
 
