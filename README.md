@@ -450,8 +450,8 @@ This project is open-source and available under the MIT License.
 ## Support
 
 For issues and questions:
-- GitHub Issues: https://github.com/yourusername/SplashForms/issues
-- Documentation: https://yourdomain.com/docs
+- GitHub Issues: https://github.com/ahmedsaadawi13/SplashForms/issues
+- Email: ahmed.sha3ban13@gmail.com
 
 ## Credits
 
